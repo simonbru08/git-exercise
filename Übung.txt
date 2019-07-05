@@ -1,4 +1,4 @@
-**Git Stash**
+# Git Stash
 
 -Der Befehlt *stash* wird benutzt, um Änderungen welche man nicht direkt hochladen will, lokal zwischenzuspeichern.
 -Falls man sie wieder braucht kann man diese natürlich auch wiederherstellen.
@@ -16,4 +16,4 @@
    01100111 01101001 01110100 00100000 01110011 01110100 01100001 01110011 01101000 00100000 01100001 01110000 01110000 01101100 01111001
 7. Nach einem letzen Push hast du diese Übung auch geschafft.
 
-**Simon Brunner**
+### Simon Brunner
